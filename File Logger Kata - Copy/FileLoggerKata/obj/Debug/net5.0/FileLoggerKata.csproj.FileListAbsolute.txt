@@ -1,0 +1,12 @@
+C:\Users\amiteshn\source\repos\Internal-LearningPaths-TestAutomation-T1\QA Learning Path\Module A5 - Test Doubles\File Logger Kata\FileLoggerKata\bin\Debug\net5.0\FileLoggerKata.deps.json
+C:\Users\amiteshn\source\repos\Internal-LearningPaths-TestAutomation-T1\QA Learning Path\Module A5 - Test Doubles\File Logger Kata\FileLoggerKata\bin\Debug\net5.0\FileLoggerKata.dll
+C:\Users\amiteshn\source\repos\Internal-LearningPaths-TestAutomation-T1\QA Learning Path\Module A5 - Test Doubles\File Logger Kata\FileLoggerKata\bin\Debug\net5.0\ref\FileLoggerKata.dll
+C:\Users\amiteshn\source\repos\Internal-LearningPaths-TestAutomation-T1\QA Learning Path\Module A5 - Test Doubles\File Logger Kata\FileLoggerKata\bin\Debug\net5.0\FileLoggerKata.pdb
+C:\Users\amiteshn\source\repos\Internal-LearningPaths-TestAutomation-T1\QA Learning Path\Module A5 - Test Doubles\File Logger Kata\FileLoggerKata\obj\Debug\net5.0\FileLoggerKata.csproj.AssemblyReference.cache
+C:\Users\amiteshn\source\repos\Internal-LearningPaths-TestAutomation-T1\QA Learning Path\Module A5 - Test Doubles\File Logger Kata\FileLoggerKata\obj\Debug\net5.0\FileLoggerKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amiteshn\source\repos\Internal-LearningPaths-TestAutomation-T1\QA Learning Path\Module A5 - Test Doubles\File Logger Kata\FileLoggerKata\obj\Debug\net5.0\FileLoggerKata.AssemblyInfoInputs.cache
+C:\Users\amiteshn\source\repos\Internal-LearningPaths-TestAutomation-T1\QA Learning Path\Module A5 - Test Doubles\File Logger Kata\FileLoggerKata\obj\Debug\net5.0\FileLoggerKata.AssemblyInfo.cs
+C:\Users\amiteshn\source\repos\Internal-LearningPaths-TestAutomation-T1\QA Learning Path\Module A5 - Test Doubles\File Logger Kata\FileLoggerKata\obj\Debug\net5.0\FileLoggerKata.csproj.CoreCompileInputs.cache
+C:\Users\amiteshn\source\repos\Internal-LearningPaths-TestAutomation-T1\QA Learning Path\Module A5 - Test Doubles\File Logger Kata\FileLoggerKata\obj\Debug\net5.0\FileLoggerKata.dll
+C:\Users\amiteshn\source\repos\Internal-LearningPaths-TestAutomation-T1\QA Learning Path\Module A5 - Test Doubles\File Logger Kata\FileLoggerKata\obj\Debug\net5.0\ref\FileLoggerKata.dll
+C:\Users\amiteshn\source\repos\Internal-LearningPaths-TestAutomation-T1\QA Learning Path\Module A5 - Test Doubles\File Logger Kata\FileLoggerKata\obj\Debug\net5.0\FileLoggerKata.pdb
