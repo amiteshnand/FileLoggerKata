@@ -86,7 +86,7 @@ namespace FileLoggerTests
       var lastSavedDate = Convert.ToDateTime("05/06/2021");
       var currentDate = Convert.ToDateTime("12/06/2021");
       var currentFileName = "weekend.txt";
-      var archivedFileName = $"weekend-20210605.txt";
+      var archivedFileName = "weekend-20210605.txt";
       var logMessage = "test archival";
 
       _dateProvider.Today.Returns(currentDate);
@@ -110,7 +110,7 @@ namespace FileLoggerTests
       var lastSavedDate = Convert.ToDateTime("05/06/2021");
       var currentDate = Convert.ToDateTime("06/06/2021");
       var currentFileName = "weekend.txt";
-      var archivedFileName = $"weekend-20210606.txt";
+      var archivedFileName = "weekend-20210606.txt";
 
       _dateProvider.Today.Returns(currentDate);
       _fileSystem.Exists(Arg.Any<string>()).Returns(true);
