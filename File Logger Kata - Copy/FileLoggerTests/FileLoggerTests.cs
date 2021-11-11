@@ -37,7 +37,10 @@ namespace FileLoggerTests
       //arange
       var date = Convert.ToDateTime("05/06/2021");
       var expectedFileName = "weekend.txt";
+      
       _dateProvider.Today.Returns(date);
+      _fileSystem.Exists(Arg.Any<string>()).ReturnsForAnyArgs(false);
+
       var logger = new FileLogger(_fileSystem, _dateProvider);
       
       //act
@@ -145,5 +148,11 @@ namespace FileLoggerTests
       _fileSystem.DidNotReceiveWithAnyArgs().Rename(Arg.Any<string>(), Arg.Any<string>());
     }
 
+    [TearDown]
+    public void Teardown()
+    {
+      _fileSystem.ClearReceivedCalls();
+      _dateProvider.ClearReceivedCalls();
+    }
   }
 }
